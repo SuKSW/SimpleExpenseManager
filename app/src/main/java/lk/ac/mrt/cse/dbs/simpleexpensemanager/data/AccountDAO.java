@@ -16,6 +16,8 @@
 
 package lk.ac.mrt.cse.dbs.simpleexpensemanager.data;
 
+import android.content.Context;
+
 import java.util.List;
 
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.exception.InvalidAccountException;
@@ -27,7 +29,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
  * accounts and updating account balance.
  */
 public interface AccountDAO {
-
+    public void createmethod(Context context);
     /***
      * Get a list of account numbers.
      *
