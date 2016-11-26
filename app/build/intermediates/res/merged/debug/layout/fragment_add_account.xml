@@ -101,4 +101,4 @@
         android:layout_row="4"
         android:text="@string/add_account_text"/>
 
-</GridLayout><!-- From: file:/D:/CSE%204/Database/Miniproject%20again/SimpleExpenseManager/app/src/main/res/layout/fragment_add_account.xml -->
+</GridLayout><!-- From: file:/D:/CSE%204/Database/toGithub/SimpleExpenseManager/app/src/main/res/layout/fragment_add_account.xml -->
